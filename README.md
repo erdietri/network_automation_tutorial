@@ -38,7 +38,22 @@ Before we get started, make sure you have both Python3 and a Python-compatible d
 * Download Python3, making sure you choose the correct operating system - https://www.python.org/downloads/
 * Follow the Python3 installation instructions based on your operating system - https://kinsta.com/knowledgebase/install-python/#how-to-install-python
 
-###
+### Exploring Cisco DevNet Sandboxes
+Cisco has many products for you to play with and to create automations for, and Cisco DevNet (Cisco's Developer Program) is the branch of Cisco that helps you learn, build, and test your automations with these products. 
+
+**Step 1.** Create an account with Cisco DevNet - https://developer.cisco.com/
+
+The way Cisco DevNet allows you to "test" that the automation you code actually works is by providing sandbox environments. These are safe environments of Cisco products that are free to use; some are always available, and some must be reserved. The AlwaysOn sandboxes do not require VPN usage or any wait time. 
+
+**Step 2.** Explore Cisco DevNet's sandbox offerings - https://developer.cisco.com/site/sandbox/
+
+We'll want to choose a sandbox to work with for creating our automation. Need help choosing? Frequently recommended sandboxes include: IOS XE on Cat8kv AlwaysOn, IOS XR Programmabilty AlwaysOn, and Umbrella Secure Internet Gateway (requires reservation, but provides access within ~5 minutes). 
+
+**Step 3.** Once you think you've found a sandbox you'd like to work with, check out the associated API documentation - https://developer.cisco.com/docs/
+
+In order to automate our interactions with a product, we have to have a way to interact with that product. An API is one way we can do that. 
+
+
 
 ## Contributors
 Erika Dietrick
