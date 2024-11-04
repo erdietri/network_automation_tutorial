@@ -1,5 +1,5 @@
 # Network Automation Tutorial
-This Python tutorial is meant for high school and college students who are both learning to code and are new to network engineering. As such, this README will deviate from typical structure to ensure it can be followed by students.
+This Python tutorial is meant for college students who are both learning to code and are new to network engineering. As such, this README will deviate from typical structure to ensure it can be followed by students.
 
 ## What is network engineering?
 Do you use the Internet? ...That's a network. Do you have wifi at home? ...That's your home network! 
