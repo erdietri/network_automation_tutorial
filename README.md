@@ -8,7 +8,7 @@ Computers are great, but we can't share the things we make (i.e. e-mail, using s
 
 When you can connect computers so that they can talk to one another, that's a network.
 
-There are many rules for how computers can get information from one another, and there are many tech devices in between to facilitate that communication; the intricacy and complexity of designing, maintaining, and troubleshooting this is why network engineering exists.
+There are many rules for how computers can get information from one another, and there are many tech devices in between to facilitate that communication; the intricacy and complexity of designing, maintaining, and troubleshooting this communication is why network engineering exists.
 
 Interested in learning more? Cisco is a leader in networking and offers free courses through CiscoU: https://u.cisco.com/.
 
